@@ -1,0 +1,50 @@
+.heading
+{
+
+}
+
+section
+{
+    color:white;
+    background-color:black;
+    font-weight: bold;
+    text-align: center;
+    width:250px
+}
+
+td
+{
+    border: 1px solid white;
+    width: 75px;
+    height: 75px;
+}
+
+#canvas td:first-child
+{
+    border-left: none;
+}
+
+#canvas td:last-child
+{
+    border-right: none;
+}
+
+#canvas tr:first-child td
+{
+    border-top: none;
+}
+
+#canvas tr:last-child td
+{
+    border-bottom: none;
+}
+
+.btnNewGameOff
+{
+    display:none;
+}
+
+.btnNewGameOn
+{
+    display:block;
+}

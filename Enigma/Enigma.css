@@ -1,0 +1,168 @@
+td
+{
+    font-family:  Courier;
+    font-size: 60px;
+    text-align: center;
+    border: solid 1px black;
+    background-color:cyan;
+}
+
+.tables
+{
+    width: 150px;
+    height: 230px;
+    display:inline-block;
+}
+
+.textBoxes
+{
+    width: 200px;
+    height: 200px;
+    display:inline-block;
+    border: solid 1px black;
+}
+
+.noBorders
+{
+    width: 10px;
+    height: 14px;
+    display:inline-block;
+}
+.Borders1
+{
+    margin-left:1px;
+    margin-bottom:1px;
+    margin-right:1px;
+    margin-top:1px;
+    border-left:none;
+    border-right:1px solid;
+    border-top:none;
+    border-bottom:1px solid;
+    width: 10px;
+    height: 14px;
+    display:inline-block;
+}
+
+.Borders2
+{
+    margin-left:1px;
+    margin-bottom:1px;
+    margin-right:1px;
+    margin-top:1px;
+    border-left:1px solid;
+    border-right:1px solid;
+    border-top:none;
+    border-bottom:1px solid;
+    width: 10px;
+    height: 14px;
+    display:inline-block;
+}
+
+.Borders3
+{
+    margin-left:1px;
+    margin-bottom:1px;
+    margin-right:1px;
+    margin-top:1px;
+    border-left:1px solid;
+    border-right:none;
+    border-top:none;
+    border-bottom:1px solid;
+    width: 10px;
+    height: 14px;
+    display:inline-block;
+}
+
+.Borders4
+{
+    margin-left:1px;
+    margin-bottom:1px;
+    margin-right:1px;
+    margin-top:1px;
+    border-left:none;
+    border-right:1px solid;
+    border-top:1px solid;
+    border-bottom:1px solid;
+    width: 10px;
+    height: 14px;
+    display:inline-block;
+}
+
+.Borders5
+{
+    margin-left:1px;
+    margin-bottom:1px;
+    margin-right:1px;
+    margin-top:1px;
+    border-left:1px solid;
+    border-right:1px solid;
+    border-top:1px solid;
+    border-bottom:1px solid;
+    width: 10px;
+    height: 14px;
+    display:inline-block;
+}
+
+.Borders6
+{
+    margin-left:1px;
+    margin-bottom:1px;
+    margin-right:1px;
+    margin-top:1px;
+    border-left:1px solid;
+    border-right:none;
+    border-top:1px solid;
+    border-bottom:1px solid;
+    width: 10px;
+    height: 14px;
+    display:inline-block;
+}
+
+.Borders7
+{
+    margin-left:1px;
+    margin-bottom:1px;
+    margin-right:1px;
+    margin-top:1px;
+    border-left:none;
+    border-right:1px solid;
+    border-top:1px solid;
+    border-bottom:none;
+    width: 10px;
+    height: 14px;
+    display:inline-block;
+}
+
+.Borders8
+{
+    margin-left:1px;
+    margin-bottom:1px;
+    margin-right:1px;
+    margin-top:1px;
+    border-left:1px solid;
+    border-right:1px solid;
+    border-top:1px solid;
+    border-bottom:none;
+    width: 10px;
+    height: 14px;
+    display:inline-block;
+}
+
+.Borders9
+{
+    margin-left:1px;
+    margin-bottom:1px;
+    margin-right:1px;
+    margin-top:1px;
+    border-left:1px solid;
+    border-right:none;
+    border-top:1px solid;
+    border-bottom:none;
+    width: 10px;
+    height: 14px;
+    display:inline-block;
+}
+#outputText
+{
+    border: none;
+}

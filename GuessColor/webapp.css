@@ -1,0 +1,28 @@
+.heading
+{
+    color:white;
+    background-color: blue;
+    text-align: center;
+}
+
+#headerbar
+{
+    border:10;
+    padding:10;
+    text-align: center;
+}
+
+.pickColor
+{
+    border: 1px solid black;
+    width: 75px;
+    height: 75px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.containerColors
+{
+    text-align:center;
+}
