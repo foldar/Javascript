@@ -1,0 +1,18 @@
+#gameTitle
+{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+
+table
+{
+    border-collapse: collapse;
+}
+
+td
+{
+    width: 10px;
+    height: 10px;
+}
